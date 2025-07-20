@@ -1,8 +1,8 @@
-<h2 align="center">Hey 👋🏻 What's up?</h2>
+<h1 align="center">Hey 👋🏻 What's up?</h1>
 
 ###
 
-<h1 align="center">I'm Mariam Hussein<br>Software Engineer | Front-End Developer (React.js)</h1>
+<h2 align="center">I'm Mariam Hussein<br>Software Engineer | Front-End Developer (React.js)</h2>
 
 ###
 
