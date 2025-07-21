@@ -1,10 +1,11 @@
 <h1 align="center">Hey 👋🏻 What's up?</h1>
 
 ###
-  <img width="20" />
-
-<h2 align="center">I'm Mariam Hussein<br>Software Engineer | Front-End Developer (React.js)</h2>
-  <img width="20" />
+<!--  <img width="20" />
+-->
+<h1 align="center">I'm Mariam Hussein
+<br><br>
+        Software Engineer | Front-End Developer (React.js)<br></h1>
   <img width="20" />
 
 ###
