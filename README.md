@@ -1,81 +1,98 @@
-<h2 align="center">Hey 👋🏻 What's up?</h2>
+<div align="center">
 
-###
+<img src="./assets/coding-girl.gif" height="160" />
 
-<h1 align="center">I'm Mariam Hussein<br>Software Engineer | Front-End Developer (React.js)</h1>
+# **Hey, I'm Mariam !**
 
-###
+`Frontend Developer` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `React`
+<br>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+<p><em>CS graduate with 1.5 years of hands-on experience across internships and freelance work. I build scalable, high-performance web applications with clean, responsive, pixel-perfect UIs.
+</em></p>
+<div>
 
-###
+> *I don't just ship features, I bring a distinct touch to every project.*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+</div>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-mariam-hussein/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamhussein4@gmail.com)
+&nbsp;
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Mariam-Huussein.Mariam-Huussein" />
+
+</div>
+<br>
+
+## 🛠️ Tech Stack
+
+### *Core*
+<div>
+  <img src="./assets/html.svg" height="45" alt="HTML5" />
+  <img width="12" />
+  <img src="./assets/css.svg" height="45" alt="CSS3" />
+  <img width="12" />
+  <img src="./assets/js.svg" height="45" alt="JavaScript" />
+  <img width="12" />
+  <img src="./assets/ts.svg" height="45" alt="TypeScript" />
+  <img width="12" />
+  <img src="./assets/react.svg" height="45" alt="React" />
+  <img width="12" />
+  <img src="./assets/next_js.svg" height="45" alt="Next.js" />
 </div>
 
-###
+<br>
 
-<h3 align="left">📤 Connect with me:</h3>
+### *Styling & UI*
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/eng-mariam-hussein/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mariamhussein4@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
-  </a>
+<div>
+  <img src="./assets/tailwind.svg" height="45" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="./assets/bootstrap.svg" height="45" alt="Bootstrap" />
+  <img width="12" />
+  <img src="./assets/shadcn_ui.svg" height="45" alt="shadcn/ui" />
+  <img width="12" />
+  <img src="./assets/material_ui.svg" height="45" alt="Material UI" />
 </div>
 
-###
+<br>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mariam-Huussein.Mariam-Huussein&"  />
+### *Tools & Services*
 
-###
-
-<img align="right" height="200" src="https://camo.githubusercontent.com/638891bca5c85744402c7849ea81d377e77142f55441031bded32b23ba062d31/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariam-Huussein&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Huussein&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Mariam-Huussein&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariam-Huussein&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div>
+  <img src="./assets/git.svg" height="45" alt="Git" />
+  <img width="12" />
+  <img src="./assets/github.svg" height="45" alt="GitHub" />
+  <img width="12" />
+  <img src="./assets/visualstudio.svg" height="45" alt="VS Code" />
+  <img width="12" />
+  <img src="./assets/cursor.svg" height="45" alt="Cursor" />
+  <img width="12" />
+  <img src="./assets/firebase.svg" height="45" alt="Firebase" />
+  <img width="12" />
+  <img src="./assets/threejs.svg" height="45" alt="R3F / Three.js" />
 </div>
 
-###
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mariam-Huussein/Mariam-Huussein/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mariam-Huussein/Mariam-Huussein/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mariam-Huussein/Mariam-Huussein/output/pacman-contribution-graph.svg">
-</picture>
+### *Languages*
 
-###
+<div>
+  <img src="./assets/cpp.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="./assets/python.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="./assets/php.svg" height="40" alt="PHP" />
+</div>
+<br>
+
+## 📊 GitHub Stats
+<br>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariam-Huussein&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mariam-Huussein&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" />
+<!-- <img src="https://streak-stats.demolab.com?user=Mariam-Huussein&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" /> -->
+
+</div>
